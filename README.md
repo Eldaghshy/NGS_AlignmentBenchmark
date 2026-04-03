@@ -39,4 +39,5 @@ c)bowtie2 slowest, less alignment than hisat2 and no assignment
 
 
 4-Differential expression
+
 -DESeq2 was ran over the hisat2 and kallisto counts and they was PCA generated for each showing that both had close results to each other in terms of variance between samples
