@@ -1,0 +1,72 @@
+SRR31565142
+"n_targets": 533740,
+	"n_bootstraps": 0,
+	"n_processed": 62285835,
+	"n_pseudoaligned": 30327287,
+	"n_unique": 6883150,
+	"p_pseudoaligned": 48.7,
+	"p_unique": 11.1,
+	"kallisto_version": "0.52.0",
+	"index_version": 13,
+	"k-mer length": 31
+
+
+SRR31565143
+"n_targets": 533740,
+	"n_bootstraps": 0,
+	"n_processed": 63279553,
+	"n_pseudoaligned": 28671893,
+	"n_unique": 6362378,
+	"p_pseudoaligned": 45.3,
+	"p_unique": 10.1,
+	"kallisto_version": "0.52.0",
+	"index_version": 13,
+	"k-mer length": 31
+
+SRR31565144
+"n_targets": 533740,
+	"n_bootstraps": 0,
+	"n_processed": 58100142,
+	"n_pseudoaligned": 26371574,
+	"n_unique": 6562712,
+	"p_pseudoaligned": 45.4,
+	"p_unique": 11.3,
+	"kallisto_version": "0.52.0",
+	"index_version": 13,
+	"k-mer length": 31
+
+SRR31565169
+"n_targets": 533740,
+	"n_bootstraps": 0,
+	"n_processed": 49124965,
+	"n_pseudoaligned": 20568531,
+	"n_unique": 4732973,
+	"p_pseudoaligned": 41.9,
+	"p_unique": 9.6,
+	"kallisto_version": "0.52.0",
+	"index_version": 13,
+	"k-mer length": 31
+
+SRR31565170
+"n_targets": 533740,
+	"n_bootstraps": 0,
+	"n_processed": 25630412,
+	"n_pseudoaligned": 12020986,
+	"n_unique": 2689157,
+	"p_pseudoaligned": 46.9,
+	"p_unique": 10.5,
+	"kallisto_version": "0.52.0",
+	"index_version": 13,
+	"k-mer length": 31
+SRR31565171
+"n_targets": 533740,
+	"n_bootstraps": 0,
+	"n_processed": 63892493,
+	"n_pseudoaligned": 33711282,
+	"n_unique": 8086263,
+	"p_pseudoaligned": 52.8,
+	"p_unique": 12.7,
+	"kallisto_version": "0.52.0",
+	"index_version": 13,
+	"k-mer length": 31
+
