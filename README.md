@@ -30,8 +30,11 @@ Also, we see how they compete in terms of accuracy for downstream analysis as we
 I used the primary assembly reference genome 
 
 -Memory and time consumed by each aligner was calculated and as result:
+
 a)Kallisto was very fast with high alignment and assignment rate
+
 b)Hisat2 had a very strong alignment rate but lower assignment rate than kallisto and in terms of speed it came 2nd to kallisto
+
 c)bowtie2 slowest, less alignment than hisat2 and no assignment 
 
 
